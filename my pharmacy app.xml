@@ -1,0 +1,339 @@
+<!-- iPhone 13 Pro Max  -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/iphone_13_p"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:clipToOutline="true"
+android:background="@drawable/iphone_13_p"
+ />
+
+<!-- drawable/iphone_13_p.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="428dp"
+android:height="926dp"
+android:viewportWidth="428"
+android:viewportHeight="926"
+ >
+<group>
+<clip-path
+android:pathData="M0 0H428V926H0V0Z"
+/>
+<path
+android:pathData="M0 0V926H428V0"
+android:fillColor="#FFFFFF"
+/>
+</group>
+</vector>
+
+
+<!-- iPhone 13 Pro Max 1 -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/iphone_13_p"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:clipToOutline="true"
+android:background="@drawable/iphone_13_p"
+ />
+
+<!-- drawable/iphone_13_p.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="428dp"
+android:height="926dp"
+android:viewportWidth="428"
+android:viewportHeight="926"
+ >
+<group>
+<clip-path
+android:pathData="M0 0H428V926H0V0Z"
+/>
+<path
+android:pathData="M0 0V926H428V0"
+android:fillColor="#FFFFFF"
+/>
+</group>
+</vector>
+
+
+<!-- iPhone 13 Pro Max - 2 -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/iphone_13_p"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:clipToOutline="true"
+android:background="@drawable/iphone_13_p"
+ />
+
+<!-- drawable/iphone_13_p.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="428dp"
+android:height="926dp"
+android:viewportWidth="428"
+android:viewportHeight="926"
+ >
+<group>
+<clip-path
+android:pathData="M0 0H428V926H0V0Z"
+/>
+<path
+android:pathData="M0 0V926H428V0"
+android:fillColor="#FFFFFF"
+/>
+</group>
+</vector>
+
+
+<!-- iPhone 13 Pro Max - 3 -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/iphone_13_p"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:clipToOutline="true"
+android:background="@drawable/iphone_13_p"
+ />
+
+<!-- drawable/iphone_13_p.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="428dp"
+android:height="926dp"
+android:viewportWidth="428"
+android:viewportHeight="926"
+ >
+<group>
+<clip-path
+android:pathData="M0 0H428V926H0V0Z"
+/>
+<path
+android:pathData="M0 0V926H428V0"
+android:fillColor="#FFFFFF"
+/>
+</group>
+</vector>
+
+
+<!-- iPhone 13 Pro Max - 4 -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/iphone_13_p"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:clipToOutline="true"
+android:background="@drawable/iphone_13_p"
+ />
+
+<!-- drawable/iphone_13_p.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="428dp"
+android:height="926dp"
+android:viewportWidth="428"
+android:viewportHeight="926"
+ >
+<group>
+<clip-path
+android:pathData="M0 0H428V926H0V0Z"
+/>
+<path
+android:pathData="M0 0V926H428V0"
+android:fillColor="#FFFFFF"
+/>
+</group>
+</vector>
+
+
+<!-- iPhone 13 Pro Max - 5 -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/iphone_13_p"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:clipToOutline="true"
+android:background="@drawable/iphone_13_p"
+ />
+
+<!-- drawable/iphone_13_p.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="428dp"
+android:height="926dp"
+android:viewportWidth="428"
+android:viewportHeight="926"
+ >
+<group>
+<clip-path
+android:pathData="M0 0H428V926H0V0Z"
+/>
+<path
+android:pathData="M0 0V926H428V0"
+android:fillColor="#FFFFFF"
+/>
+</group>
+</vector>
+
+
+<!-- iPhone 13 Pro Max - 6 -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/iphone_13_p"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:clipToOutline="true"
+android:background="@drawable/iphone_13_p"
+ />
+
+<!-- drawable/iphone_13_p.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="428dp"
+android:height="926dp"
+android:viewportWidth="428"
+android:viewportHeight="926"
+ >
+<group>
+<clip-path
+android:pathData="M0 0H428V926H0V0Z"
+/>
+<path
+android:pathData="M0 0V926H428V0"
+android:fillColor="#FFFFFF"
+/>
+</group>
+</vector>
+
+
+<!-- iPhone 13 Pro Max - 7 -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/iphone_13_p"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:clipToOutline="true"
+android:background="@drawable/iphone_13_p"
+ />
+
+<!-- drawable/iphone_13_p.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="428dp"
+android:height="926dp"
+android:viewportWidth="428"
+android:viewportHeight="926"
+ >
+<group>
+<clip-path
+android:pathData="M0 0H428V926H0V0Z"
+/>
+<path
+android:pathData="M0 0V926H428V0"
+android:fillColor="#FFFFFF"
+/>
+</group>
+</vector>
+
+
+<!-- iPhone 13 Pro Max - 8 -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/iphone_13_p"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:clipToOutline="true"
+android:background="@drawable/iphone_13_p"
+ />
+
+<!-- drawable/iphone_13_p.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="428dp"
+android:height="926dp"
+android:viewportWidth="428"
+android:viewportHeight="926"
+ >
+<group>
+<clip-path
+android:pathData="M0 0H428V926H0V0Z"
+/>
+<path
+android:pathData="M0 0V926H428V0"
+android:fillColor="#FFFFFF"
+/>
+</group>
+</vector>
+
+
+<!-- iPhone 13 Pro Max - 9 -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/iphone_13_p"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:clipToOutline="true"
+android:background="@drawable/iphone_13_p"
+ />
+
+<!-- drawable/iphone_13_p.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="428dp"
+android:height="926dp"
+android:viewportWidth="428"
+android:viewportHeight="926"
+ >
+<group>
+<clip-path
+android:pathData="M0 0H428V926H0V0Z"
+/>
+<path
+android:pathData="M0 0V926H428V0"
+android:fillColor="#FFFFFF"
+/>
+</group>
+</vector>
+
+
+<!-- iPhone 13 Pro Max - 10 -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/iphone_13_p"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:clipToOutline="true"
+android:background="@drawable/iphone_13_p"
+ />
+
+<!-- drawable/iphone_13_p.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="428dp"
+android:height="926dp"
+android:viewportWidth="428"
+android:viewportHeight="926"
+ >
+<group>
+<clip-path
+android:pathData="M0 0H428V926H0V0Z"
+/>
+<path
+android:pathData="M0 0V926H428V0"
+android:fillColor="#FFFFFF"
+/>
+</group>
+</vector>
